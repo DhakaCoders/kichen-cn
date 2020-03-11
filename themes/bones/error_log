@@ -1,0 +1,99 @@
+[01-Mar-2016 06:09:30 America/Chicago] PHP Fatal error:  Call to undefined function language_attributes() in /home3/graham/public_html/igcsesciencecourses.com/wp-content/themes/bones/header.php on line 3
+[01-Mar-2016 06:09:31 America/Chicago] PHP Fatal error:  Call to undefined function add_action() in /home3/graham/public_html/igcsesciencecourses.com/wp-content/themes/bones/functions.php on line 64
+[01-Mar-2016 06:09:31 America/Chicago] PHP Fatal error:  Call to undefined function wp_nav_menu() in /home3/graham/public_html/igcsesciencecourses.com/wp-content/themes/bones/footer.php on line 6
+[01-Mar-2016 06:09:33 America/Chicago] PHP Fatal error:  Call to undefined function get_header() in /home3/graham/public_html/igcsesciencecourses.com/wp-content/themes/bones/archive.php on line 1
+[01-Mar-2016 06:09:33 America/Chicago] PHP Fatal error:  Call to undefined function get_header() in /home3/graham/public_html/igcsesciencecourses.com/wp-content/themes/bones/404.php on line 1
+[12-Mar-2016 15:38:45 America/Chicago] PHP Fatal error:  Call to undefined function add_action() in /home3/graham/public_html/igcsesciencecourses.com/wp-content/themes/bones/functions.php on line 64
+[12-Mar-2016 15:38:45 America/Chicago] PHP Fatal error:  Call to undefined function wp_nav_menu() in /home3/graham/public_html/igcsesciencecourses.com/wp-content/themes/bones/footer.php on line 6
+[12-Mar-2016 16:40:35 America/Chicago] PHP Fatal error:  Call to undefined function add_action() in /home3/graham/public_html/igcsesciencecourses.com/wp-content/themes/bones/functions.php on line 64
+[12-Mar-2016 16:40:35 America/Chicago] PHP Fatal error:  Call to undefined function wp_nav_menu() in /home3/graham/public_html/igcsesciencecourses.com/wp-content/themes/bones/footer.php on line 6
+[16-Jun-2016 05:28:10 America/Chicago] PHP Fatal error:  Call to undefined function get_header() in /home3/graham/public_html/igcsesciencecourses.com/wp-content/themes/bones/index.php on line 1
+[19-Jun-2016 10:27:08 America/Chicago] PHP Fatal error:  Call to undefined function get_header() in /home3/graham/public_html/igcsesciencecourses.com/wp-content/themes/bones/404.php on line 1
+[07-Jul-2016 21:21:18 America/Chicago] PHP Fatal error:  Call to undefined function add_action() in /home3/graham/public_html/igcsesciencecourses.com/wp-content/themes/bones/functions.php on line 64
+[26-Jul-2016 04:02:29 America/Chicago] PHP Fatal error:  Call to undefined function get_header() in /home3/graham/public_html/igcsesciencecourses.com/wp-content/themes/bones/404.php on line 1
+[01-Aug-2016 18:12:07 America/Chicago] PHP Fatal error:  Call to undefined function get_header() in /home3/graham/public_html/igcsesciencecourses.com/wp-content/themes/bones/archive.php on line 1
+[05-Aug-2016 15:55:54 America/Chicago] PHP Fatal error:  Call to undefined function add_action() in /home3/graham/public_html/igcsesciencecourses.com/wp-content/themes/bones/functions.php on line 64
+[05-Aug-2016 22:09:50 America/Chicago] PHP Fatal error:  Call to undefined function add_action() in /home3/graham/public_html/igcsesciencecourses.com/wp-content/themes/bones/functions.php on line 64
+[06-Aug-2016 02:46:07 America/Chicago] PHP Fatal error:  Call to undefined function add_action() in /home3/graham/public_html/igcsesciencecourses.com/wp-content/themes/bones/functions.php on line 64
+[07-Aug-2016 13:18:39 America/Chicago] PHP Fatal error:  Call to undefined function language_attributes() in /home3/graham/public_html/igcsesciencecourses.com/wp-content/themes/bones/header.php on line 3
+[07-Aug-2016 13:18:40 America/Chicago] PHP Fatal error:  Call to undefined function wp_nav_menu() in /home3/graham/public_html/igcsesciencecourses.com/wp-content/themes/bones/footer.php on line 6
+[11-Aug-2016 01:16:03 America/Chicago] PHP Fatal error:  Call to undefined function add_action() in /home3/graham/public_html/igcsesciencecourses.com/wp-content/themes/bones/functions.php on line 64
+[28-Nov-2016 06:14:27 America/Chicago] PHP Fatal error:  Call to undefined function get_header() in /home3/graham/public_html/igcsesciencecourses.com/wp-content/themes/bones/index.php on line 1
+[18-Mar-2017 20:18:44 America/Chicago] PHP Fatal error:  Call to undefined function get_header() in /home3/graham/public_html/igcsesciencecourses.com/wp-content/themes/bones/404.php on line 1
+[23-Mar-2017 21:58:01 America/Chicago] PHP Fatal error:  Call to undefined function get_header() in /home3/graham/public_html/igcsesciencecourses.com/wp-content/themes/bones/404.php on line 1
+[07-Apr-2017 09:40:37 America/Chicago] PHP Fatal error:  Call to undefined function get_header() in /home3/graham/public_html/igcsesciencecourses.com/wp-content/themes/bones/404.php on line 1
+[18-Apr-2017 09:08:53 America/Chicago] PHP Fatal error:  Call to undefined function get_header() in /home3/graham/public_html/igcsesciencecourses.com/wp-content/themes/bones/404.php on line 1
+[06-Feb-2018 08:19:35 America/Chicago] PHP Fatal error:  Call to undefined function is_active_sidebar() in /home3/graham/public_html/igcsesciencecourses.com/wp-content/themes/bones/sidebar.php on line 3
+[06-Feb-2018 08:19:38 America/Chicago] PHP Fatal error:  Call to undefined function is_active_sidebar() in /home3/graham/public_html/igcsesciencecourses.com/wp-content/themes/bones/sidebar.php on line 3
+[16-Mar-2018 04:08:08 America/Chicago] PHP Fatal error:  Call to undefined function get_header() in /home3/graham/public_html/igcsesciencecourses.com/wp-content/themes/bones/404.php on line 1
+[24-Mar-2018 00:43:24 America/Chicago] PHP Fatal error:  Call to undefined function get_header() in /home3/graham/public_html/igcsesciencecourses.com/wp-content/themes/bones/404.php on line 1
+[24-Mar-2018 04:57:58 America/Chicago] PHP Fatal error:  Call to undefined function get_header() in /home3/graham/public_html/igcsesciencecourses.com/wp-content/themes/bones/archive.php on line 1
+[26-Mar-2018 05:54:09 America/Chicago] PHP Fatal error:  Call to undefined function get_header() in /home3/graham/public_html/igcsesciencecourses.com/wp-content/themes/bones/index.php on line 1
+[27-Mar-2018 21:58:56 America/Chicago] PHP Fatal error:  Call to undefined function language_attributes() in /home3/graham/public_html/igcsesciencecourses.com/wp-content/themes/bones/header.php on line 3
+[10-Apr-2018 14:14:38 America/Chicago] PHP Fatal error:  Call to undefined function get_header() in /home3/graham/public_html/igcsesciencecourses.com/wp-content/themes/bones/404.php on line 1
+[06-May-2018 14:32:53 America/Chicago] PHP Fatal error:  Call to undefined function get_header() in /home3/graham/public_html/igcsesciencecourses.com/wp-content/themes/bones/404.php on line 1
+[06-May-2018 20:25:19 America/Chicago] PHP Fatal error:  Call to undefined function get_header() in /home3/graham/public_html/igcsesciencecourses.com/wp-content/themes/bones/404.php on line 1
+[19-Sep-2018 23:31:15 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home3/graham/public_html/igcsesciencecourses.com/wp-content/themes/bones/index.php:1
+Stack trace:
+#0 {main}
+  thrown in /home3/graham/public_html/igcsesciencecourses.com/wp-content/themes/bones/index.php on line 1
+[04-Dec-2018 02:35:04 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home3/graham/public_html/igcsesciencecourses.com/wp-content/themes/bones/archive.php:1
+Stack trace:
+#0 {main}
+  thrown in /home3/graham/public_html/igcsesciencecourses.com/wp-content/themes/bones/archive.php on line 1
+[04-Dec-2018 02:35:07 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home3/graham/public_html/igcsesciencecourses.com/wp-content/themes/bones/search.php:1
+Stack trace:
+#0 {main}
+  thrown in /home3/graham/public_html/igcsesciencecourses.com/wp-content/themes/bones/search.php on line 1
+[21-Jan-2019 05:34:09 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home3/graham/public_html/igcsesciencecourses.com/wp-content/themes/bones/index.php:1
+Stack trace:
+#0 {main}
+  thrown in /home3/graham/public_html/igcsesciencecourses.com/wp-content/themes/bones/index.php on line 1
+[17-Nov-2019 18:40:17 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home3/graham/public_html/igcsesciencecourses.com/wp-content/themes/bones/404.php:1
+Stack trace:
+#0 {main}
+  thrown in /home3/graham/public_html/igcsesciencecourses.com/wp-content/themes/bones/404.php on line 1
+[18-Nov-2019 14:05:19 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home3/graham/public_html/igcsesciencecourses.com/wp-content/themes/bones/404.php:1
+Stack trace:
+#0 {main}
+  thrown in /home3/graham/public_html/igcsesciencecourses.com/wp-content/themes/bones/404.php on line 1
+[13-Dec-2019 04:01:05 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home3/graham/public_html/igcsesciencecourses.com/wp-content/themes/bones/404.php:1
+Stack trace:
+#0 {main}
+  thrown in /home3/graham/public_html/igcsesciencecourses.com/wp-content/themes/bones/404.php on line 1
+[14-Dec-2019 01:00:40 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home3/graham/public_html/igcsesciencecourses.com/wp-content/themes/bones/404.php:1
+Stack trace:
+#0 {main}
+  thrown in /home3/graham/public_html/igcsesciencecourses.com/wp-content/themes/bones/404.php on line 1
+[15-Dec-2019 04:26:40 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home3/graham/public_html/igcsesciencecourses.com/wp-content/themes/bones/404.php:1
+Stack trace:
+#0 {main}
+  thrown in /home3/graham/public_html/igcsesciencecourses.com/wp-content/themes/bones/404.php on line 1
+[16-Dec-2019 01:13:12 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home3/graham/public_html/igcsesciencecourses.com/wp-content/themes/bones/404.php:1
+Stack trace:
+#0 {main}
+  thrown in /home3/graham/public_html/igcsesciencecourses.com/wp-content/themes/bones/404.php on line 1
+[12-Jan-2020 02:54:00 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home3/graham/public_html/igcsesciencecourses.com/wp-content/themes/bones/404.php:1
+Stack trace:
+#0 {main}
+  thrown in /home3/graham/public_html/igcsesciencecourses.com/wp-content/themes/bones/404.php on line 1
+[13-Jan-2020 10:52:17 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home3/graham/public_html/igcsesciencecourses.com/wp-content/themes/bones/404.php:1
+Stack trace:
+#0 {main}
+  thrown in /home3/graham/public_html/igcsesciencecourses.com/wp-content/themes/bones/404.php on line 1
+[15-Jan-2020 00:32:31 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home3/graham/public_html/igcsesciencecourses.com/wp-content/themes/bones/404.php:1
+Stack trace:
+#0 {main}
+  thrown in /home3/graham/public_html/igcsesciencecourses.com/wp-content/themes/bones/404.php on line 1
+[15-Jan-2020 13:07:51 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home3/graham/public_html/igcsesciencecourses.com/wp-content/themes/bones/404.php:1
+Stack trace:
+#0 {main}
+  thrown in /home3/graham/public_html/igcsesciencecourses.com/wp-content/themes/bones/404.php on line 1
+[15-Feb-2020 21:23:24 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home3/graham/public_html/igcsesciencecourses.com/wp-content/themes/bones/index.php:1
+Stack trace:
+#0 {main}
+  thrown in /home3/graham/public_html/igcsesciencecourses.com/wp-content/themes/bones/index.php on line 1
+[15-Feb-2020 21:23:24 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home3/graham/public_html/igcsesciencecourses.com/wp-content/themes/bones/index.php:1
+Stack trace:
+#0 {main}
+  thrown in /home3/graham/public_html/igcsesciencecourses.com/wp-content/themes/bones/index.php on line 1

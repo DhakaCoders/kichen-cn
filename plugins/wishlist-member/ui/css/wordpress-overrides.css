@@ -1,0 +1,306 @@
+#wpbody-content {
+	padding-bottom: 40px;
+}
+
+#adminmenu a {
+    font-family: -apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,Oxygen-Sans,Ubuntu,Cantarell,"Helvetica Neue",sans-serif !important;
+}
+
+#wpcontent {
+	padding-left: 160px;
+	margin-left: 0;
+}
+
+body.toplevel_page_WishListMember .update-nag {
+	display: none;
+}
+body.toplevel_page_WishListMember .wlm-toaster {
+	color: #444;
+	position: fixed;
+	bottom: 2rem;
+	right: 0;
+	min-width: 400px;
+	max-width: 400px;
+    z-index: 9999;
+}
+body.toplevel_page_WishListMember .wlm-toaster .notice {
+	background: #fff;
+	box-shadow: 0 1px 2px 0 rgba(222,222,222,0.50);	
+	border-radius: 0;
+	opacity: 0.9;
+	color: #727272;
+	padding: 0.1rem 0.5rem;
+	margin-bottom: 1rem;
+	border: 1px solid #ececec;
+}
+body.toplevel_page_WishListMember .wlm-toaster .notice p {
+	font-size: 0.9rem;
+}
+body.toplevel_page_WishListMember .wlm-toaster .notice-success {
+	border-left: 4px #054A91 solid;
+	border-left: 4px #15C384 solid;				
+}
+body.toplevel_page_WishListMember .wlm-toaster .notice-error,
+body.toplevel_page_WishListMember .wlm-toaster .notice-danger {
+	border-left: 4px #E74C3C solid;
+}
+body.toplevel_page_WishListMember .wlm-toaster .notice-warning {
+	border-left: 4px #F8BC09 solid;					
+}
+body.toplevel_page_WishListMember .wlm-toaster .notice-info {
+	border-left: 4px #28A745 solid;
+}																				
+
+
+/*Loader*/
+/*	#loader-container.no-sidebar .l-sidebar {
+		visibility: hidden;
+	}
+	#loader-container.no-topbar .l-topbar {
+		visibility: hidden;
+	}
+*/
+
+@keyframes placeHolderShimmer{
+    0%{
+        background-position: -468px 0
+    }
+    100%{
+        background-position: 468px 0
+    }
+}
+
+.l-sidebar {
+/*	background: #4E5865;
+	float: left;
+	width: 185px;*/
+/*	height: 700px;*/
+	background: #4E5865;
+	width: 185px;
+	-ms-flex: 0 100px;
+	-webkit-box-flex:  0;
+	-moz-box-flex:  0;
+	-ms-box-flex:  0;
+	box-flex:  0; 
+}
+.l-content {
+	background: #F7F9FB;
+	-ms-flex: 1;
+	-webkit-box-flex: 1;
+	-moz-box-flex: 1;
+	-ms-box-flex: 1;
+	box-flex: 1; 	
+}
+
+.loader-shimmer {
+        animation-duration: 1.5s;
+        animation-fill-mode: forwards;
+        animation-iteration-count: infinite;
+        animation-name: placeHolderShimmer;
+        animation-timing-function: linear;
+        background: #CFD3D6;
+        background: linear-gradient(to right, #eeeeee 8%, #dddddd 18%, #eeeeee 33%);
+        background-size: 800px 104px;
+        width: 74px;
+        height: 20px;
+        border-radius: 2px;
+        position: relative;	
+}
+
+.loader-shimmer.-sb-shimmer {
+    animation-duration: 4s;
+    background: #fff;
+    background: linear-gradient(to right, #dddddd 8%, #d8cece 18%, #eeeeee 33%);
+    border-radius: 0;
+    width: 154px;
+    height: 93px;
+    margin: 8px 0 0 12px;
+    opacity: 0.2;	
+}
+
+.loader-shimmer.-sb-shimmer .bg-mask {
+    position: absolute;
+    background: #4E5865;	
+}
+
+.loader-shimmer.-sb-shimmer .bg-mask.-top-menu01 {
+	width: 124px;
+	height: 5px;
+	right: 0;	
+}
+
+.loader-shimmer.-sb-shimmer .bg-mask.-mid-menu01 {
+    width: 8px;
+    height: 20px;
+    left: 22px;
+}
+
+.loader-shimmer.-sb-shimmer .bg-mask.-btm-menu01 {
+    width: 124px;
+    height: 5px;
+    right: 0;
+    top: 15px;
+}
+
+.loader-shimmer.-sb-shimmer .bg-mask.-menu-spacer {
+    width: 154px;
+    height: 16px;
+    top: 20px;
+}
+
+.loader-shimmer.-sb-shimmer .bg-mask.-top-menu02 {
+    width: 124px;
+    height: 5px;
+    right: 0;
+    top: 36px;
+}
+
+
+.loader-shimmer.-sb-shimmer .bg-mask.-mid-menu02 {
+    width: 8px;
+    height: 20px;
+    left: 22px;
+    top: 36px;
+}
+
+.loader-shimmer.-sb-shimmer .bg-mask.-btm-menu02 {
+    width: 124px;
+    height: 5px;
+    right: 0;
+    top: 51px;
+}
+
+.loader-shimmer.-sb-shimmer .bg-mask.-adjuster02 {
+    width: 30px;
+    height: 10px;
+    right: 0;
+    top: 41px;
+}
+
+.loader-shimmer.-sb-shimmer .bg-mask.-menu-spacer02 {
+    width: 154px;
+    height: 16px;
+    top: 56px;
+}
+
+.loader-shimmer.-sb-shimmer .bg-mask.-top-menu03 {
+    width: 124px;
+    height: 5px;
+    right: 0;
+    top: 72px;
+}
+
+.loader-shimmer.-sb-shimmer .bg-mask.-mid-menu03 {
+    width: 8px;
+    height: 20px;
+    left: 22px;
+    top: 72px;
+}
+
+.loader-shimmer.-sb-shimmer .bg-mask.-btm-menu03 {
+    width: 124px;
+    height: 5px;
+    right: 0;
+    top: 87px;
+}
+
+.loader-shimmer.-sb-shimmer .bg-mask.-adjuster03 {
+    width: 10px;
+    height: 10px;
+    right: 0;
+    top: 77px;
+}
+
+.loader-shimmer.-sb-shimmer .bg-mask.-menu-spacer03 {
+    width: 154px;
+    height: 16px;
+    top: 92px;
+}
+
+/*Top Bar*/
+.l-content .l-topbar {
+    background: #F7F9FB;
+    padding-top: 19px;
+}
+
+.loader-shimmer.-l-top-left {
+	float: left;
+    width: 240px;
+    margin: 0 0 0 18px;
+}
+
+.loader-shimmer.-l-top-right {
+	float: right;
+    margin-right: 15px;
+}
+
+.loader-shimmer.-l-top-right > .mask-icons {
+    background: #F7F9FB;
+    position: absolute;
+    height: 20px;
+    width: 4px;
+    top: 0;
+}
+
+.loader-shimmer.-l-top-right > .mask-icons.-mask-icon01 {
+    right: 48px;
+}
+
+.loader-shimmer.-l-top-right > .mask-icons.-mask-icon02 {
+    right: 22px;
+}
+
+.l-content-top {
+	padding: 20px 0;
+	height: 20px;
+}
+
+.loader-shimmer.-l-top {
+    height: 2px;
+    width: 100%;
+    clear: both;
+}
+
+.l-container {
+	text-align: center;
+	padding-top: 200px;
+}
+
+.l-logo {
+	margin: 0 auto 10px;
+}
+
+
+body.folded #wpcontent {
+    padding-left: 0!important;
+}
+
+@media only screen and (max-width: 960px) {
+    .auto-fold #wpcontent {
+        padding-left: 0;
+    }    
+}
+
+@media screen and (max-width: 782px) {
+    .wp-responsive-open #wpbody {
+        right: -11.90em;
+    }
+}
+
+.toplevel_page_WishListMember #wpfooter {
+    display: none;
+}
+.toplevel_page_WishListMember #wpbody-content {
+    padding-bottom: 0;
+}
+.wlm-toaster {
+    background: none;
+    border: none;
+    padding: 0;
+    opacity: 1;
+}
+
+/* clear stuff that shows above our UI brought in by themes and other plugins */
+#wpbody-content > :not(.wlm3block):not(.clear):not(#screen-meta) {
+    display: none;
+}

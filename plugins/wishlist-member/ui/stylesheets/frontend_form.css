@@ -1,0 +1,167 @@
+.wlm3-form {
+	max-width: 600px;
+}
+.wlm3-form .wlm3-form-group {
+	margin-bottom: 15px;
+	position: relative;	
+}
+.wlm3-form .wlm3-form-group label {
+	display: block;
+	margin-bottom: 5px;
+}
+.wlm3-form .wlm3-form-group .wlm3-form-field {
+	display: block;
+	width: 100%;
+}
+
+.wlm3-form .wlm3-form-group .wlm3-form-header {
+	font-weight: bold;
+	font-size:1.2em;
+}
+
+.wlm3-form [id^="wlm3-password-generator-buttons_"] {
+	position: absolute;
+	right: 0;
+	white-space: nowrap;
+}
+
+.rtl .wlm3-form [id^="wlm3-password-generator-buttons_"] {
+	right: auto;
+	left: 48px;
+}
+
+.wlm3-form [id^="wlm3-password-generator-strength_"] {
+	text-align: center;
+}
+
+.wlm3-form [id^="wlm3-password-generator-strength_"].bad {
+	background: #f1adad;
+}
+
+.wlm3-form [id^="wlm3-password-generator-strength_"].short {
+	background: #f1adad;
+}
+
+.wlm3-form [id^="wlm3-password-generator-strength_"].good {
+	background: #ffe399;
+}
+
+.wlm3-form [id^="wlm3-password-generator-strength_"].strong {
+	background: #c1e1b9;
+}
+
+
+.wlm3-form .wlm3-profile-error {
+	color: red;
+}
+
+.wlm3-form .wlm3-profile-ok {
+	color: green;
+}
+
+.wlm3-theme-styled-reg-form {
+	max-width: 600px;
+}
+
+.wlm3-show-new-regform .wlm3-theme-styled-reg-form-toggle li.wlm3-existing-account,
+.wlm3-show-existing-regform .wlm3-theme-styled-reg-form-toggle li.wlm3-new-account {
+	border-bottom: 1px solid #888;
+}
+
+.wlm3-show-existing-regform .wlm3-theme-styled-reg-form-toggle li.wlm3-existing-account,
+.wlm3-show-new-regform .wlm3-theme-styled-reg-form-toggle li.wlm3-new-account {
+	border: 1px solid #888;
+	border-bottom: none;
+}
+
+.wlm3-show-new-regform .wlm3-existing-account-error,
+.wlm3-show-new-regform .wlm3-existing-account-form,
+.wlm3-show-existing-regform .wlm3-new-account-error,
+.wlm3-show-existing-regform .wlm3-new-account-form {
+	display: none;
+}
+
+.wlm3-show-new-regform ul.wlm3-theme-styled-reg-form-toggle,
+.wlm3-show-existing-regform ul.wlm3-theme-styled-reg-form-toggle {
+	list-style: none;
+	margin: 0 0 1em 0;
+	padding: 0;
+	display: flex;
+	align-items: flex-start;
+	flex-wrap: nowrap;
+}
+
+.wlm3-show-new-regform ul.wlm3-theme-styled-reg-form-toggle > li,
+.wlm3-show-existing-regform ul.wlm3-theme-styled-reg-form-toggle > li {
+	/*display: inline-block;*/
+	width: 50%;
+	text-align: center;
+	padding: 10px 20px;
+	margin: 0;
+	list-style-type: none;
+}
+
+.wlm3-theme-styled-reg-form-toggle li a {
+	display: block;
+	color: #000;
+	text-decoration: none !important;
+	outline: none;
+	border-bottom: none;
+	box-shadow: none;
+}
+
+.wlm3-form-tos {
+	border: 1px solid #888;
+	padding: 20px;
+	max-height: 300px;
+	overflow: auto;
+}
+
+.wlm3-form-group .wlm3-profile-photo-container {
+	width: 150px;
+	height: 150px;
+	position: relative;
+	overflow: hidden;
+	border-radius: 100%;
+	border: 4px solid #ffffff;
+}
+
+.wlm3-form-group .wlm3-profile-photo-container .wlm3-profile-photo {
+	height: 100%;
+}
+.wlm3-form-group .wlm3-profile-photo-container .wlm3-profile-photo img {
+	max-height: 100%;
+	max-width: none;
+	width: auto;
+	position: relative;
+	top: 50%;
+	left: 50%;
+	transform: translate(-50%, -50%);
+	border: none;
+	border-radius: 0;
+	margin: 0;
+	padding: 0;
+}
+.wlm3-form-group .wlm3-profile-photo-container .wlm3-profile-photo-icons {
+	visibility: hidden;
+	position: absolute;
+	top: 0;
+	width: 100%;
+	height: 100%;
+	background: rgba(0, 0, 0, .5);
+	text-align: center;
+	vertical-align: middle;
+	padding: 45px 0;
+	color: #ffffff;
+	font-family: dashicons;
+	font-size: 30px;
+}
+
+.wlm3-form-group .wlm3-profile-photo-container:hover .wlm3-profile-photo-icons {
+	visibility: visible;
+}
+
+.wlm3-form-group .wlm3-profile-photo-container .wlm3-profile-photo-icons span {
+	cursor: pointer;
+}
+

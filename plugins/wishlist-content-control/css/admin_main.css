@@ -1,0 +1,116 @@
+/* Content Control Stylesheet */
+body.wishlist-plugins_page_ContentControl a.wl-nav-tab,
+body.wishlist-plugins_page_ContentControl a.wl-nav-tab:hover,
+body.wishlist-plugins_page_ContentControl a.wl-nav-tab:active {
+	font-size: 18px !important;
+	line-height: 35px !important;
+	padding: 0 10px 0 10px !important;
+	border-bottom: 1px solid #ccc;
+	margin-left: -1px;
+	background-color: #fff;
+	
+
+}
+
+body.wishlist-plugins_page_ContentControl a.wl-nav-tab-active,
+body.wishlist-plugins_page_ContentControl a.wl-nav-tab-active:hover,
+body.wishlist-plugins_page_ContentControl a.wl-nav-tab-active:active {
+	border-bottom: 1px solid #fff;
+	background-color: #fff;
+	
+}
+
+ul.wlcc-sub-menu {
+	clear: both;
+	list-style: none;
+	margin: 0 18px 0 0;
+	padding: 0 0 0 10px;
+	background-color: #f7f7f7;
+	border-bottom: 1px solid #dfdfdf;
+	height: 36px;
+	text-align: right !important;
+	width: 100%;
+}
+
+ul.wlcc-sub-menu li {
+	display: inline;
+}
+
+ul.wlcc-sub-menu a {
+	text-decoration: none;
+	font-family: "HelveticaNeue-Light","Helvetica Neue Light","Helvetica Neue",Helvetica,Arial,sans-serif;
+	font-weight: 200;
+	font-size: 14px;
+	line-height: 20px;
+	margin: 5px 4px 0 0;
+	padding: 3px 10px 3px 10px;
+	color: #21759b;
+	text-shadow:rgba(255,255,255,1) 0 1px 0;
+	padding: 4px 14px 6px;
+	-moz-border-radius:3px 3px 0 0;
+	-webkit-border-top-left-radius:3px;
+	-webkit-border-top-right-radius:3px;
+	-khtml-border-top-left-radius:3px;
+	-khtml-border-top-right-radius:3px;
+	border-top-left-radius:3px;
+	border-top-right-radius:3px;
+	border-color:#f7f7f7 #f7f7f7 #fff;
+	border-style:solid;
+	border-width:1px 1px 0;
+	display:inline-block;
+}
+
+ul.wlcc-sub-menu li.current a {
+	color: #464646;
+	background-color: #F1F1F1;
+	border-color:#dfdfdf #dfdfdf #fff;
+	height: 21px;
+}
+
+ul.wlcc-sub-menu a:hover,
+ul.wlcc-sub-menu a:active,
+ul.wlcc-sub-menu li.current a:hover {
+	color: #D54E21;
+}
+
+/*OTher Classes*/
+div.due-action-holder{
+    height:20px;
+    margin:2px 2px 0px 2px;
+    padding: 0px;
+}
+div.due-action-link-holder{
+    margin:0px;
+}
+span.datepicker-img img{
+    vertical-align: middle;
+    margin-left: 4px;
+    border: 1px solid #ffffff;
+    cursor: pointer;
+    padding:1px;
+}
+span.datepicker-img img:hover{
+    vertical-align: middle;
+    margin-left: 4px;
+    border: 1px solid #cccccc;
+    cursor: pointer;
+    padding:1px;
+}
+tr.new_tr{
+    background-color: #fcefa1;
+}
+div.updated-clone{ /*CLONED STYLE FROM WP*/
+    border: 1px solid #e6db55;
+    background-color:#ffffe0;
+}
+div.updated-clone p{ /*CLONED STYLE FROM WP*/
+    margin:8px;
+}
+table input[type="submit"]{
+    line-height: 15px;
+    padding: 3px 10px;
+    white-space: nowrap;
+}
+.small{
+    font-size: 10px;
+}

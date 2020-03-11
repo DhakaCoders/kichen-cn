@@ -1,0 +1,130 @@
+/******************************************************************
+Site Name:
+Author:
+
+Stylesheet: Tablet & Small Desktop Stylesheet
+
+Here's where you can start getting into the good stuff.
+This size will work on iPads, other tablets, and desktops.
+So you can start working with more styles, background images,
+and other resources. You'll also notice the grid starts to
+come into play. Have fun!
+
+******************************************************************/
+
+
+/*********************
+GENERAL STYLES
+*********************/
+
+body {}
+
+/*********************
+LAYOUT & GRID STYLES
+*********************/
+
+.wrap {
+    width: 98%;
+}
+
+
+.main-top-nav {
+    
+    .mobile-menu-btn {
+        display: none;
+        visibility: hidden;
+    }
+    
+    .top-nav {
+        display: block;
+    }
+}
+
+.nav {
+
+	ul {
+        background:$black;
+		margin-top:0;
+	}
+	li {
+		float: none;
+        // change for IGCSE
+        display: inline-block;
+        vertical-align: middle;
+
+		a {
+
+        }
+        
+        /*
+		plan your menus and drop-downs wisely.
+		*/
+		ul.sub-menu,
+		ul.children {
+			margin-top: 0;
+			border: 1px solid #ccc;
+			border-top: 0;
+			position: absolute;
+			visibility: hidden;
+			z-index: 8999;
+
+			li {
+
+				a {
+					padding-left: 10px;
+					border-right: 0;
+					display: block;
+					width: 180px;
+					border-bottom: 1px solid #ccc;
+
+					&:hover,
+					&:focus {}
+
+					&:link {}
+				}
+
+				&:first-child {}
+
+				&:last-child {
+
+					a {
+						border-bottom: 0;
+					}
+				}
+
+				/*
+				if you need to go deeper, go nuts
+				just remember deeper menus suck
+				for usability. k, bai.
+				*/
+				ul {
+					top:0;
+					left:100%;
+				}
+			}
+
+			/* highlight sub-menu current page */
+			li.current-menu-item,
+			li.current_page_item,
+			li.current_page_ancestor {
+				a {}
+			}
+		}
+        
+        &:hover > ul {
+			top: auto;
+			visibility:visible;
+		}
+        
+        
+        /* MEMBER LOGIN LINK */
+        &.member-login-link {
+            margin: 7px 0 7px 20px;
+            
+            a {
+                padding: 0.25em 0.75em;
+            }
+        }
+    }
+}
+

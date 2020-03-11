@@ -1,0 +1,112 @@
+ <!-- Blog Side Content -->
+<aside id="sidebar-blog" class="sidebar m-all t-1of3 d-2of7 last-col cf" role="complementary">
+  <?php if ( is_active_sidebar( 'sidebar-blog' ) ) : ?>
+
+        <?php dynamic_sidebar( 'sidebar-blog' ); ?>
+        
+    <?php endif; ?>
+  <!--
+   <div class="hentry latest-blog-posts">
+        <div class="sidebar-header">
+            <h3>Latest Posts</h3>
+        </div>
+
+        <ul class="post-sidebar-list">
+           <?php
+            $args = array( 'numberposts' => 2, 'post_status'=>"publish",'post_type'=>"post",'orderby'=>"post_date",'category__not_in'=>array(5));
+            $postslist = get_posts($args);
+            foreach ($postslist as $post) :  setup_postdata($post); ?> 
+                <li>
+                    <a href="<?php the_permalink(); ?>" title="<?php the_title();?>"> <?php the_title(); ?></a>
+                </li>
+            <?php endforeach; ?>
+        </ul>
+    </div>
+    
+    <div class="hentry archive-posts">
+        <div class="sidebar-header">
+            <h3>Archives</h3>
+        </div>
+
+        <ul class="archive-list">
+           <?php wp_get_archives('type=monthly'); ?>
+        </ul>
+    </div>
+    -->
+    
+    <div class="hentry ">
+       <div class="sidebar-header">
+            <h3>Resources</h3>
+        </div>
+        
+        <ul class="sidebar-list">
+            <li>
+                <a href="http://youtu.be/BrG56LHYLCU">Flipped Learning - Chromosomes, genes and DNA</a>
+            </li>
+            <li>
+                <a href="http://youtu.be/dXL-Y9gY2qg">Spaced Learning - P1, P2 and P3 Summary Presentation</a>
+            </li>
+        </ul>
+    </div>
+    
+    <div class="hentry ">
+       <div class="sidebar-header">
+            <h3>Training Videos</h3>
+        </div>
+        
+        <ul class="sidebar-list">
+            <li>
+                <a href="http://youtu.be/_fLf0g50zwY">Create your own online teaching resources - Part 1</a>
+            </li>
+            <li>
+                <a href="http://youtu.be/jYhlQEX_pOo">Create your own online teaching resources - Part 2</a>
+            </li>
+            <li>
+                <a href="http://youtu.be/X__5ZSrxs9o">Create your own online teaching resources - Part 3</a>
+            </li>
+        </ul>
+    </div>
+    
+    <div class="hentry ">
+       <div class="sidebar-header">
+            <h3><a href="http://www.educationquizzes.com/">Education Quizzes</a></h3>
+        </div>
+        <div class="sidebar-content">
+           <div class="figure">
+                <a href="http://www.educationquizzes.com/">
+                    <img src="<?php echo site_url(); ?>/wp-content/themes/bones/library/images/education-quizzes-new-350.jpg" alt="Education Quizzes">
+               </a>
+            </div>
+
+            <p>Over 1,000 quizzes to help you revise for KS2, KS3 and GCSE. This enjoyable website has a wide range of quizzes for English, Maths and Science as well as many other subjects found in the national curriculum. <a href="http://www.educationquizzes.com/">See more »</a></p>
+        </div>
+    </div>
+    
+    <div class="hentry ">
+       <div class="sidebar-header">
+            <h3><a href="https://www.udemy.com/chemistry-101-part-3-organic-and-physical-chemistry/?couponCode=CHEM101%23013">Udemy Chemistry 101</a></h3>
+        </div>
+        <div class="sidebar-content">
+           <div class="figure">
+                <a href="https://www.udemy.com/chemistry-101-part-3-organic-and-physical-chemistry/?couponCode=CHEM101%23013">
+                    <img src="<?php echo site_url(); ?>/wp-content/themes/bones/library/images/udemy-chemistry-101-course.jpg" alt="Education Quizzes">
+               </a>
+            </div>
+
+            <p>An online Chemistry course taking you from absolute beginnings to competence in the basics of this subject.. Also includes quizzes to test your understanding as you progress! <a href="https://www.udemy.com/chemistry-101-part-3-organic-and-physical-chemistry/?couponCode=CHEM101%23013">See more »</a></p>
+        </div>
+    </div>
+    
+<!--
+    <div class="hentry ">
+       <div class="sidebar-header">
+            <h3></h3>
+        </div>
+        
+        <ul class="sidebar-list">
+            
+        </ul>
+    </div>
+-->    
+
+</aside>

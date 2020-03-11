@@ -1,0 +1,370 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: WishList Content Control 1.1.28\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2015-12-08 08:48-0500\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=CHARSET\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: wishlist-content-control/modules/manager.php:64
+msgid "Set Posts Status"
+msgstr ""
+
+#: wishlist-content-control/modules/manager.php:65
+msgid "Add/Move Posts"
+msgstr ""
+
+#: wishlist-content-control/modules/manager.php:66
+msgid "Repost"
+msgstr ""
+
+#: wishlist-content-control/modules/manager.php:111
+#: wishlist-content-control/modules/archiver.php:77
+msgid "No post selected."
+msgstr ""
+
+#: wishlist-content-control/modules/manager.php:118
+#: wishlist-content-control/modules/manager.php:190
+#: wishlist-content-control/modules/manager.php:1195
+#: wishlist-content-control/modules/manager.php:1240
+#: wishlist-content-control/modules/manager.php:1278
+msgid "Due Date is invalid ("
+msgstr ""
+
+#: wishlist-content-control/modules/manager.php:161
+#: wishlist-content-control/modules/manager.php:226
+msgid "<p>Due Date/s was successfully updated for the selected posts.</p>"
+msgstr ""
+
+#: wishlist-content-control/modules/manager.php:163
+#: wishlist-content-control/modules/manager.php:228
+msgid "<p>You have errors in your Due Date settings.</p>"
+msgstr ""
+
+#: wishlist-content-control/modules/manager.php:310
+#: wishlist-content-control/modules/scheduler.php:221
+#: wishlist-content-control/modules/archiver.php:285
+msgid "&laquo;"
+msgstr ""
+
+#: wishlist-content-control/modules/manager.php:311
+#: wishlist-content-control/modules/scheduler.php:222
+#: wishlist-content-control/modules/archiver.php:286
+msgid "&raquo;"
+msgstr ""
+
+#: wishlist-content-control/modules/manager.php:341
+#: wishlist-content-control/modules/manager.php:506
+#: wishlist-content-control/modules/scheduler.php:258
+#: wishlist-content-control/modules/scheduler.php:338
+#: wishlist-content-control/modules/archiver.php:306
+#: wishlist-content-control/modules/archiver.php:408
+#, php-format
+msgid "Displaying %s&#8211;%s of %s"
+msgstr ""
+
+#: wishlist-content-control/modules/manager.php:370
+#: wishlist-content-control/modules/scheduler.php:276
+#: wishlist-content-control/modules/archiver.php:331
+msgid "Post Title"
+msgstr ""
+
+#: wishlist-content-control/modules/manager.php:371
+#: wishlist-content-control/modules/scheduler.php:277
+#: wishlist-content-control/modules/archiver.php:332
+msgid "Category"
+msgstr ""
+
+#: wishlist-content-control/modules/manager.php:372
+#: wishlist-content-control/modules/scheduler.php:278
+#: wishlist-content-control/modules/archiver.php:333
+msgid "Author"
+msgstr ""
+
+#: wishlist-content-control/modules/manager.php:373
+#: wishlist-content-control/modules/scheduler.php:279
+msgid "Published Date"
+msgstr ""
+
+#: wishlist-content-control/modules/manager.php:374
+#: wishlist-content-control/modules/manager.php:792
+#: wishlist-content-control/modules/manager.php:876
+#: wishlist-content-control/modules/manager.php:977
+msgid "Due Date"
+msgstr ""
+
+#: wishlist-content-control/modules/manager.php:730
+msgid "Update Due Date"
+msgstr ""
+
+#: wishlist-content-control/modules/manager.php:731
+#: wishlist-content-control/modules/archiver.php:452
+msgid "Cancel"
+msgstr ""
+
+#: wishlist-content-control/modules/manager.php:737
+msgid "Apply Values to Selected Post"
+msgstr ""
+
+#: wishlist-content-control/modules/manager.php:791
+msgid " Set Post Status"
+msgstr ""
+
+#: wishlist-content-control/modules/manager.php:793
+msgid "Status"
+msgstr ""
+
+#: wishlist-content-control/modules/manager.php:875
+msgid " Add/Move Post"
+msgstr ""
+
+#: wishlist-content-control/modules/manager.php:877
+msgid "Categories"
+msgstr ""
+
+#: wishlist-content-control/modules/manager.php:976
+msgid " Repost"
+msgstr ""
+
+#: wishlist-content-control/modules/manager.php:1098
+#: wishlist-content-control/modules/scheduler.php:484
+#: wishlist-content-control/modules/archiver.php:550
+#: wishlist-content-control/classes.php:241
+msgid ""
+"Please enter your WishList Products Key and Email below to activate this "
+"plugin"
+msgstr ""
+
+#: wishlist-content-control/modules/manager.php:1101
+#: wishlist-content-control/modules/scheduler.php:487
+#: wishlist-content-control/modules/archiver.php:553
+#: wishlist-content-control/classes.php:244
+msgid "WishList Products Key"
+msgstr ""
+
+#: wishlist-content-control/modules/manager.php:1103
+#: wishlist-content-control/modules/scheduler.php:489
+#: wishlist-content-control/modules/archiver.php:555
+#: wishlist-content-control/classes.php:246
+msgid "(This was sent to the email you used during your purchase)"
+msgstr ""
+
+#: wishlist-content-control/modules/manager.php:1106
+#: wishlist-content-control/modules/scheduler.php:492
+#: wishlist-content-control/modules/archiver.php:558
+#: wishlist-content-control/classes.php:249
+msgid "WishList Products Email"
+msgstr ""
+
+#: wishlist-content-control/modules/manager.php:1108
+#: wishlist-content-control/modules/scheduler.php:494
+#: wishlist-content-control/modules/archiver.php:560
+#: wishlist-content-control/classes.php:251
+msgid "(Please enter the email you used during your registration/purchase)"
+msgstr ""
+
+#: wishlist-content-control/modules/manager.php:1301
+#: wishlist-content-control/modules/archiver.php:645
+msgid "<p>You have errors in your WL Content Manager settings.</p>"
+msgstr ""
+
+#: wishlist-content-control/modules/manager.php:1515
+#: wishlist-content-control/modules/manager.php:1521
+#: wishlist-content-control/modules/manager.php:1530
+msgid "WishList Content Manager"
+msgstr ""
+
+#: wishlist-content-control/modules/scheduler.php:108
+msgid "<p>Post Schedule was successfully updated.</p>"
+msgstr ""
+
+#: wishlist-content-control/modules/scheduler.php:110
+msgid "<p>Page Schedule was successfully updated.</p>"
+msgstr ""
+
+#: wishlist-content-control/modules/scheduler.php:121
+msgid "<p>Post Schedule was successfully removed for the selected posts.</p>"
+msgstr ""
+
+#: wishlist-content-control/modules/scheduler.php:123
+msgid "<p>Page Schedule was successfully removed for the selected posts.</p>"
+msgstr ""
+
+#: wishlist-content-control/modules/scheduler.php:127
+msgid "<p>No post was selected for removal of delay.</p>"
+msgstr ""
+
+#: wishlist-content-control/modules/scheduler.php:129
+msgid "<p>No page was selected for removal of delay.</p>"
+msgstr ""
+
+#: wishlist-content-control/modules/scheduler.php:141
+msgid "<p>Post Schedule was successfully updated for the selected posts.</p>"
+msgstr ""
+
+#: wishlist-content-control/modules/scheduler.php:143
+msgid "<p>No post was selected to apply the value for delay.</p>"
+msgstr ""
+
+#: wishlist-content-control/modules/scheduler.php:151
+#: wishlist-content-control/modules/scheduler.php:158
+#: wishlist-content-control/modules/archiver.php:173
+msgid "<p>Settings Saved.</p>"
+msgstr ""
+
+#: wishlist-content-control/modules/scheduler.php:192
+#: wishlist-content-control/modules/archiver.php:252
+msgid "Save Settings"
+msgstr ""
+
+#: wishlist-content-control/modules/scheduler.php:253
+#: wishlist-content-control/modules/scheduler.php:345
+msgid "Save Changes"
+msgstr ""
+
+#: wishlist-content-control/modules/scheduler.php:280
+msgid "Show After"
+msgstr ""
+
+#: wishlist-content-control/modules/scheduler.php:281
+msgid "Show For"
+msgstr ""
+
+#: wishlist-content-control/modules/scheduler.php:385
+msgid ""
+"Make this post available/hidden after the number of days specified below for "
+"each level."
+msgstr ""
+
+#: wishlist-content-control/modules/scheduler.php:1405
+msgid "Widget Title:"
+msgstr ""
+
+#: wishlist-content-control/modules/scheduler.php:1406
+msgid "List Spacing in Pixels:"
+msgstr ""
+
+#: wishlist-content-control/modules/scheduler.php:1409
+msgid "Display Time of Post:"
+msgstr ""
+
+#: wishlist-content-control/modules/scheduler.php:1413
+msgid "How Many Schedule Posts to Display:"
+msgstr ""
+
+#: wishlist-content-control/modules/scheduler.php:1416
+msgid "Show Post/Page:"
+msgstr ""
+
+#: wishlist-content-control/modules/scheduler.php:1426
+msgid "Upcoming Posts"
+msgstr ""
+
+#: wishlist-content-control/modules/scheduler.php:1445
+msgid "all"
+msgstr ""
+
+#: wishlist-content-control/modules/archiver.php:84
+#: wishlist-content-control/modules/archiver.php:116
+msgid "Archive Date is invalid ("
+msgstr ""
+
+#: wishlist-content-control/modules/archiver.php:94
+msgid "<p>Archive Date(s) was successfully updated for the selected posts.</p>"
+msgstr ""
+
+#: wishlist-content-control/modules/archiver.php:96
+#: wishlist-content-control/modules/archiver.php:129
+msgid "<p>You have errors in your Archive settings.</p>"
+msgstr ""
+
+#: wishlist-content-control/modules/archiver.php:127
+msgid "<p>Archive Date was successfully updated for the selected posts.</p>"
+msgstr ""
+
+#: wishlist-content-control/modules/archiver.php:334
+msgid "Start Date"
+msgstr ""
+
+#: wishlist-content-control/modules/archiver.php:335
+#: wishlist-content-control/modules/archiver.php:438
+#: wishlist-content-control/modules/archiver.php:505
+msgid "Archive Date"
+msgstr ""
+
+#: wishlist-content-control/modules/archiver.php:451
+msgid "Update Expiration"
+msgstr ""
+
+#: wishlist-content-control/modules/archiver.php:454
+msgid "Apply Expiration to Selected Post"
+msgstr ""
+
+#: wishlist-content-control/modules/archiver.php:500
+msgid ""
+"Please select the Membership Level and specify the date this Post will be "
+"archived."
+msgstr ""
+
+#: wishlist-content-control/modules/archiver.php:504
+msgid "Membership Level/s"
+msgstr ""
+
+#: wishlist-content-control/modules/archiver.php:629
+msgid "<p>-Archive Date for <b>"
+msgstr ""
+
+#: wishlist-content-control/modules/archiver.php:647
+msgid ""
+"<p>The Date selected has already passed the published date of the post. "
+"Please select a Date after the published date of the post.</p>"
+msgstr ""
+
+#: wishlist-content-control/modules/archiver.php:843
+#: wishlist-content-control/modules/archiver.php:849
+#: wishlist-content-control/modules/archiver.php:858
+msgid "WishList Content Archiver"
+msgstr ""
+
+#: wishlist-content-control/classes.php:166
+msgid "WishList Content Control"
+msgstr ""
+
+#: wishlist-content-control/classes.php:170
+msgid "WishList Content Control Modules"
+msgstr ""
+
+#: wishlist-content-control/classes.php:193
+#: wishlist-content-control/classes.php:199
+msgid "Status: "
+msgstr ""
+
+#: wishlist-content-control/classes.php:208
+msgid "You have the latest version of "
+msgstr ""
+
+#: wishlist-content-control/classes.php:210
+msgid "* Please update your "
+msgstr ""
+
+#: wishlist-content-control/classes.php:211
+#, php-format
+msgid "<a href=\"%1$s\">Download</a>"
+msgstr ""
+
+#: wishlist-content-control/classes.php:489
+msgid ""
+"Warning: Unable to contact License Activation Server. We will keep on "
+"trying. <a href=\"http://wlplink.com/go/activation\" target=\"_blank\">Click "
+"here for more info.</a>"
+msgstr ""

@@ -1,0 +1,8 @@
+[20-Jan-2020 19:27:23 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home3/graham/public_html/igcsesciencecourses.com/wp-content/themes/twentytwenty/404.php:10
+Stack trace:
+#0 {main}
+  thrown in /home3/graham/public_html/igcsesciencecourses.com/wp-content/themes/twentytwenty/404.php on line 10
+[22-Jan-2020 16:55:50 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home3/graham/public_html/igcsesciencecourses.com/wp-content/themes/twentytwenty/404.php:10
+Stack trace:
+#0 {main}
+  thrown in /home3/graham/public_html/igcsesciencecourses.com/wp-content/themes/twentytwenty/404.php on line 10

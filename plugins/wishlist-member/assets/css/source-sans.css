@@ -1,0 +1,40 @@
+@font-face {
+  font-family: 'Source Sans Pro';
+  font-style: normal;
+  font-weight: 300;
+  src: local('Source Sans Pro Light'),
+       local('SourceSansPro-Light'),
+       url({wlm3plugindir}/assets/fonts/sourcesanspro-light.woff2?build=6649) format('woff2'),
+       url({wlm3plugindir}/assets/fonts/sourcesanspro-light.woff?build=6649) format('woff'),
+       url({wlm3plugindir}/assets/fonts/sourcesanspro-light.ttf?build=6649) format('truetype');
+}
+@font-face {
+  font-family: 'Source Sans Pro';
+  font-style: normal;
+  font-weight: 400;
+  src: local('Source Sans Pro Regular'),
+       local('SourceSansPro-Regular'),
+       url({wlm3plugindir}/assets/fonts/sourcesanspro-regular.woff2?build=6649) format('woff2'),
+       url({wlm3plugindir}/assets/fonts/sourcesanspro-regular.woff?build=6649) format('woff'),
+       url({wlm3plugindir}/assets/fonts/sourcesanspro-regular.ttf?build=6649) format('truetype');
+}
+@font-face {
+  font-family: 'Source Sans Pro';
+  font-style: normal;
+  font-weight: 600;
+  src: local('Source Sans Pro SemiBold'),
+       local('SourceSansPro-SemiBold'),
+       url({wlm3plugindir}/assets/fonts/sourcesanspro-semibold.woff2?build=6649) format('woff2'),
+       url({wlm3plugindir}/assets/fonts/sourcesanspro-semibold.woff?build=6649) format('woff'),
+       url({wlm3plugindir}/assets/fonts/sourcesanspro-semibold.ttf?build=6649) format('truetype');
+}
+@font-face {
+  font-family: 'Source Sans Pro';
+  font-style: normal;
+  font-weight: 700;
+  src: local('Source Sans Pro Bold'),
+       local('SourceSansPro-Bold'),
+       url({wlm3plugindir}/assets/fonts/sourcesanspro-bold.woff2?build=6649) format('woff2'),
+       url({wlm3plugindir}/assets/fonts/sourcesanspro-bold.woff?build=6649) format('woff'),
+       url({wlm3plugindir}/assets/fonts/sourcesanspro-bold.ttf?build=6649) format('truetype');
+}

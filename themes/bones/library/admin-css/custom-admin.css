@@ -1,0 +1,4 @@
+/* Fix Bug - Hide strange clone of editor textarea contents */
+#wp-content-editor-container #content-textarea-clone {
+    display: none;
+} 
