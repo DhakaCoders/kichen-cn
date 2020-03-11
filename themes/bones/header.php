@@ -98,8 +98,7 @@
                       </div>
                       <div class="right-tagline">
                         <div class="right-tag-content">
-                          <div class="rtc-text">Science videos<br>on demand</div>
-                          <div class="rtc-image"></div>
+                          <img src="<?php echo THEME_URI; ?>/images/science-videos-on-demand_badge.png">
                         </div>
                       </div>
                     </div>

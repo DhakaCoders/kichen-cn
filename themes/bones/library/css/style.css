@@ -1362,6 +1362,7 @@ article img.aligncenter {
 }
 .right-tagline{
 	float: right;
+	padding-top: 35px;
 }
 
 .nav {
